@@ -9,6 +9,4 @@ A javascript developer in Javascript world👨‍💻 🚀
 
 Javascript| Angular| Typescript| React| Node |HTML & CSS| Tailwind |Saas
 
-  <img src="./icons/Bootstrap.svg" width="48"> 
-
 
